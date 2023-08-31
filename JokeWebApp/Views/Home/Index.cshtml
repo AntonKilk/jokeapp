@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"] = "Joke of the day";
+}
+
+<h1>@ViewData["Title"]</h1>
+<h2>@ViewBag.JokeCategory</h2>
+
+@if (ViewBag.Joke != null)
+{
+    <p>@ViewBag.Joke</p>
+}
+else
+{
+    <p>@ViewBag.Setup</p>
+    <p>@ViewBag.Delivery</p>
+}

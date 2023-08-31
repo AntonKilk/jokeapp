@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wy5DQfv/nYKyxR57xgARHYjwf6HCn/1FFB/h+Se32iZfJPzCm4MUXn1TMK9BnmN1eKpcBT2B5dlmraN1b1007g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kilkkant\\sandbox\\dev\\JokeApp\\JokeWebApp\\JokeWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kilkkant\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
